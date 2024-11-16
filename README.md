@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Godot Engine
 - 💞️ I’m looking to collaborate on VHS Effects
 - 📫 How to reach me: Email
-- 😄 Pronouns: Kell, Dsp23, Xav
+- 😄 Pronouns: Kell, Xav
 - ⚡ Fun fact: Nothing for now
 
 <!---
