@@ -1,8 +1,8 @@
 - @Kelleesh24's readme
 - 👀 I’m interested in VHS, Emulation, Retro, Gaming, Art
-- 🌱 I’m currently learning Godot Engine
-- 💞️ I’m looking to collaborate on VHS Effects
-- 📫 How to reach me: Email
+- 🌱 I’m currently learning HTML5 and JS
+- 💞️ I’m looking to collaborate on VHS Effects or other projects
+- 📫 How to reach me: Email, YouTube, DM's in my other socials
 - 😄 Pronouns: Kell, Xav
 - ⚡ Fun fact: Nothing for now
 
